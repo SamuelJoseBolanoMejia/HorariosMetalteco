@@ -2,6 +2,6 @@
 <item>
   <version>5.0.0.0</version>
   <url>https://raw.githubusercontent.com/samy19911991/HorariosMetalteco/main/HorariosPlantaMetalteco.zip</url>
-  <changelog>https://github.com/samy19911991/HorariosMetalteco/blob/main/README.md</changelog>
+  <changelog>https://raw.githubusercontent.com/samy19911991/HorariosMetalteco/main/README.md</changelog>
   <mandatory>false</mandatory>
 </item>
